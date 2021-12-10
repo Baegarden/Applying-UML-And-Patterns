@@ -1,9 +1,6 @@
 # Applying-UML-And-Patterns
 <strong>Applying UML And Patterns - "Money Diary"</strong><br><br>
 
-> ### Topic 
-Pocket Money Diary
-
 > ### To Do List
 * Actor-Goal List
 * Use Case Diagram
