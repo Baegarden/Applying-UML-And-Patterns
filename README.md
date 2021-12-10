@@ -1,5 +1,5 @@
 # Applying-UML-And-Patterns
-<strong>Applying UML And Patterns - "Money Diary"</strong>
+<strong>Applying UML And Patterns - "Money Diary💰"</strong>
 <br><br><br>
 
 > ### To Do List
