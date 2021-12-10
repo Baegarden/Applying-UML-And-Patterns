@@ -7,6 +7,7 @@
 * Use Case Text
 * Sequence Diagram
 * Class Diagram
+<br><br>
 
 > ### Actor-Goal List 
 <p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576463-e0c706b2-20e6-4fd4-9653-90d3195b38ce.png" width="80%" height="80%"></p>
