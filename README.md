@@ -1,6 +1,6 @@
 # Applying-UML-And-Patterns
 <strong>Applying UML And Patterns - "Money Diary"</strong>
-<br><br><br><
+<br><br><br>
 
 > ### To Do List
 * Actor-Goal List
