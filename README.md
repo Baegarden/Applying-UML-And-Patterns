@@ -8,8 +8,22 @@
 * Sequence Diagram
 * Class Diagram
 
-> ### 소개 
-* 💕 MY TEAM 정보<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145034413-c3170328-5c10-4557-8667-ea4f82795947.gif"></p><br>
-* 🙏 코리안리거 일정<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145034408-79ffb91d-120c-4439-868e-0a77efd425aa.gif"></p><br>
-* 🛫 리그별 정보<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145034431-3a5cfc47-33b9-4323-8064-eb68bc69cf4b.gif"></p><br>
+> ### Actor-Goal List 
+<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576463-e0c706b2-20e6-4fd4-9653-90d3195b38ce.png"></p><br>
 
+> ### Use Case Diagram
+<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576486-478a1b02-7df0-4564-ab61-20a0584ceafa.png"></p><br>
+
+> ### Use Case Text
+생략 
+
+> ### Sequence Diagram 
+  * 수입지출 내역 기입<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576467-5f33df41-a28f-4b3d-90e1-15de2e530b08.png"></p><br>
+  * 수입지출 내역 조회<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576469-171664cd-3ba3-4c05-920c-67d2253632c5.png"></p><br>
+  * 보안 알림<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576475-5739b103-4dff-4cfe-81f0-41216a663ce0.png"></p><br>
+  * 맞춤 광고 제공<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576478-99bcf7ec-c8be-498e-b39d-3d8dce516c76.png"></p><br>
+  * 출금 기능 제한<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576481-b855a3ba-5fab-4996-a81a-a6249e158e3f.png"></p><br>
+
+> ### Class Diagram
+<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576466-8629a9aa-1129-4cb9-a5dc-c121ac0c3d55.png"></p><br>
+ 
