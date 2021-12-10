@@ -20,7 +20,7 @@
 
 > ### Use Case Text
 생략 
-<br><br>
+<br><br><br>
 
 > ### Sequence Diagram 
   * 수입지출 내역 기입<p align="center"><img src="https://user-images.githubusercontent.com/76520025/145576467-5f33df41-a28f-4b3d-90e1-15de2e530b08.png" width="80%" height="80%"></p><br>
